@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUMAN\\Desktop\\Parfum_Magazasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA28AA-8353-481D-86D2-6E0E7A506B75}|Parfum_Magazasi\\Parfum_Magazasi.csproj|c:\\users\\duman\\desktop\\parfum_magazasi\\parfum_magazasi\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA28AA-8353-481D-86D2-6E0E7A506B75}|Parfum_Magazasi\\Parfum_Magazasi.csproj|solutionrelative:parfum_magazasi\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Parfum_Magazasi\\Parfum_Magazasi\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Parfum_Magazasi\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\Parfum_Magazasi\\Parfum_Magazasi\\DatabaseManager.cs",
+              "RelativeToolTip": "Parfum_Magazasi\\DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:36:56.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
